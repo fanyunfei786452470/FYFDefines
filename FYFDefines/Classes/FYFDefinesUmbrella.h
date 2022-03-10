@@ -8,5 +8,8 @@
 #ifndef FYFDefinesUmbrella_h
 #define FYFDefinesUmbrella_h
 
+#import "FYFColorDefine.h"
+#import "FYFObjectDefine.h"
+#import "FYFViewDefine.h"
 
 #endif /* FYFDefinesUmbrella_h */
