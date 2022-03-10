@@ -1,12 +1,12 @@
 //
-//  FYFDefinesUmbbrella.h
+//  FYFDefinesUmbrella.h
 //  Pods
 //
 //  Created by 范云飞 on 2022/3/10.
 //
 
-#ifndef FYFDefinesUmbbrella_h
-#define FYFDefinesUmbbrella_h
+#ifndef FYFDefinesUmbrella_h
+#define FYFDefinesUmbrella_h
 
 
-#endif /* FYFDefinesUmbbrella_h */
+#endif /* FYFDefinesUmbrella_h */
