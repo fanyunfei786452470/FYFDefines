@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'FYFDefines'
-  s.version          = '0.1.7'
+  s.version          = '0.1.8'
   s.summary          = 'A short description of FYFDefines.'
 
 # This description is used to generate tags and improve search results.
