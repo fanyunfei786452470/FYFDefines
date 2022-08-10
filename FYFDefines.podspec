@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'FYFDefines'
-  s.version          = '0.2.1'
+  s.version          = '0.2.2'
   s.summary          = 'A short description of FYFDefines.'
 
 # This description is used to generate tags and improve search results.
@@ -38,7 +38,7 @@ TODO: Add long description of the pod here.
     'DEFINES_MODULE' => 'YES'
   }
   # 组件支持swift混编的版本
-  s.swift_versions = ['5.1', '5.2','5.3', '5.4']
+  s.swift_versions = ['5.1', '5.2','5.3', '5.4', '5.5']
   
   # s.resource_bundles = {
   #   'FYFDefines' => ['FYFDefines/Assets/*.png']
