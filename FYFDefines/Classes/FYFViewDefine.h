@@ -73,6 +73,9 @@ static inline CGFloat getTabBarHeight() {
 #ifndef FYFViewDefine_h
 #define FYFViewDefine_h
 
+#define FYFDefaultParentView [[[UIApplication sharedApplication] delegate] window]
+
+
 #define FYF_IS_LANDSCAPE (UIInterfaceOrientationIsLandscape([[UIApplication sharedApplication] statusBarOrientation]))
 
 #define FYFScreenHeight   ([[UIScreen mainScreen] bounds].size.height)
